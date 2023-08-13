@@ -16,9 +16,10 @@ Si tenés alguna data para agregar o arreglar, podés abrir un _pull request_ o 
 - 3 puertos USB
 - Conector CompactFlash
 - Se alimenta con 5V, consume menos de 1A, y es fanless
+- [Esquemático similar](https://www.vortex86.com/downloadsStart?serial=VSX-EVB-SCH)
 
-![Image](https://m.media-amazon.com/images/I/41fR1BKOhvL._AC_UF894,1000_QL80_.jpg)
-![Versión con GPIO y puertos serie](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/EBOX_PC_2300_SX_internal.jpg/562px-EBOX_PC_2300_SX_internal.jpg)
+![Image](https://m.media-amazon.com/images/I/41fR1BKOhvL.jpg)
+[![Versión con GPIO y puertos serie](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/EBOX_PC_2300_SX_internal.jpg/562px-EBOX_PC_2300_SX_internal.jpg)](https://commons.wikimedia.org/wiki/File:EBOX_PC_2300_SX_internal.jpg)
 
 ![Block diagram](https://www.dmp.com.tw/tech/vortex86sx/img/Vortex86SX_block_diagram.gif)
 
@@ -51,11 +52,12 @@ Si tenés alguna data para agregar o arreglar, podés abrir un _pull request_ o 
 - [Jugar al Doom con dos Vortex conectadas entre sí (IPX)](dos_doom.md)
 - [Conectar la Vortex a una red Ethernet/Internet](dos_ethernet.md)
 - [Conectar MS-DOS a Mastodon](https://fabulous.systems/posts/2023/08/connecting-ms-dos-to-the-internet-and-the-fediverse/)
-- [x86Launcher, un launcher gráfico para juegos y apps](https://github.com/megatron-uk/x86Launcher)ç
+- [x86Launcher, un launcher gráfico para juegos y apps](https://github.com/megatron-uk/x86Launcher)
 - [FrogFind, proxy y buscador de sitios viejos](http://frogfind.com/)
 - [Drivers para dispositivos USB en DOS](https://www.bretjohnson.us/)
 - [Gopherus, cliente de gopher para DOS](https://sourceforge.net/projects/gopherus/)
 - [Juegos viejos de DOS](https://archive.org/details/DOSGamesCollection2015)
+- [Discos de instalación de DOS](https://winworldpc.com/product/ms-dos/622)
 
 ## Windows 3.1x y anteriores
 - 
@@ -74,3 +76,4 @@ Si tenés alguna data para agregar o arreglar, podés abrir un _pull request_ o 
 ## Otros: 
 - OS/2: Crashea antes de terminar de bootear
 - Memtest: corre bien hasta la versión 4.1
+- [Referencia de desarrollo de software para Vortex](http://www.dmp.com.tw/tech/DMP_Vortex86_Series_Software_Programming_Reference_091216.pdf)
