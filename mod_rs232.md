@@ -1,0 +1,3 @@
+# Agregar puerto serie RS232 o UART
+
+...

@@ -1,0 +1,3 @@
+# Backup y modificaciones a la BIOS de la Vortex
+
+...

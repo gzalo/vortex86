@@ -37,15 +37,19 @@ Si tenés alguna data para agregar o arreglar, podés abrir un _pull request_ o 
 
 ## Modificaciones
 
-- [Armar cable de alimentación](https://www.youtube.com/watch?v=gUz2xTNYLwo&t=72s)
+- [Pines del cable de alimentación](https://www.youtube.com/watch?v=gUz2xTNYLwo&t=72s)
+- [Armar conector de alimentación](https://www.youtube.com/watch?v=4KoLS5mJQUQ)
 - [Bypass de cable de alimentación](mod_power_bypass.md)
-- Mod para agregar puerto serie
-- Mod para agregar pines GPIO
+- [Backup y modding de la BIOS](mod_bios.md)
+- [Mod para agregar puerto serie RS232 o UART](mod_rs232.md)
+- [Mod para agregar pines GPIO](mod_gpio.md)
 - [Mod para agregar ESP8266 como bridge Wi-Fi](https://vintage2000.org/dos/serial_wifi_adapter)
 
 # Software
 
 ## MS-DOS y FreeDOS
+- [Jugar al Doom con dos Vortex conectadas entre sí (IPX)](dos_doom.md)
+- [Conectar la Vortex a una red Ethernet/Internet](dos_ethernet.md)
 - [Conectar MS-DOS a Mastodon](https://fabulous.systems/posts/2023/08/connecting-ms-dos-to-the-internet-and-the-fediverse/)
 - [x86Launcher, un launcher gráfico para juegos y apps](https://github.com/megatron-uk/x86Launcher)ç
 - [FrogFind, proxy y buscador de sitios viejos](http://frogfind.com/)
@@ -54,6 +58,7 @@ Si tenés alguna data para agregar o arreglar, podés abrir un _pull request_ o 
 - [Juegos viejos de DOS](https://archive.org/details/DOSGamesCollection2015)
 
 ## Windows 3.1x y anteriores
+- 
 
 ## Windows 95/98
 - [Parche para CPUs modernas, no hace nada en las Vortex](https://github.com/JHRobotics/patcher9x)
@@ -67,5 +72,5 @@ Si tenés alguna data para agregar o arreglar, podés abrir un _pull request_ o 
 - [Imagen CE 5.0 demo oficial (con X-Linux y FreeDOS también)](http://www.dmp.com.tw/tech/vortex86sx/demo/070529.GHO)
 
 ## Otros: 
-- OS/2
-- Memtest: corre bien hasta la v4.1
+- OS/2: Crashea antes de terminar de bootear
+- Memtest: corre bien hasta la versión 4.1
