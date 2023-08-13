@@ -38,6 +38,7 @@ Si tenés alguna data para agregar o arreglar, podés abrir un _pull request_ o 
 ## Modificaciones
 
 - [Armar cable de power](https://www.youtube.com/watch?v=gUz2xTNYLwo&t=72s)
+- [Bypass de caable de power](mod_power_bypass.md)
 - Mod para agregar puerto serie
 - Mod para agregar pines GPIO
 - [Mod para agregar ESP8266 como bridge Wi-Fi](https://vintage2000.org/dos/serial_wifi_adapter)
@@ -58,11 +59,13 @@ Si tenés alguna data para agregar o arreglar, podés abrir un _pull request_ o 
 - [Parche para CPUs modernas, no hace nada en las Vortex](https://github.com/JHRobotics/patcher9x)
 - [Protoweb, una máquina del tiempo de internet](https://protoweb.org/)
 
-## OS/2
-
 ## Linux
 - [X-linux, la distro "oficial" de los fabricantes (ya tiene un kernel viejito)](http://www.dmp.com.tw/tech/os-xlinux/xlinux-manual-5.7.htm)
 - [Compilar Linux para 486](https://ocawesome101.github.io/486-linux.html)
 
 ## Windows CE
 - [Imagen CE 5.0 demo oficial (con X-Linux y FreeDOS también)](http://www.dmp.com.tw/tech/vortex86sx/demo/070529.GHO)
+
+## Otros: 
+- OS/2
+- Memtest: corre bien hasta la v4.1
