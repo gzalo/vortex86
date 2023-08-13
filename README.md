@@ -37,8 +37,8 @@ Si tenés alguna data para agregar o arreglar, podés abrir un _pull request_ o 
 
 ## Modificaciones
 
-- [Armar cable de power](https://www.youtube.com/watch?v=gUz2xTNYLwo&t=72s)
-- [Bypass de caable de power](mod_power_bypass.md)
+- [Armar cable de alimentación](https://www.youtube.com/watch?v=gUz2xTNYLwo&t=72s)
+- [Bypass de cable de alimentación](mod_power_bypass.md)
 - Mod para agregar puerto serie
 - Mod para agregar pines GPIO
 - [Mod para agregar ESP8266 como bridge Wi-Fi](https://vintage2000.org/dos/serial_wifi_adapter)
