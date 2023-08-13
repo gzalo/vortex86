@@ -8,10 +8,27 @@ Si tenés alguna data para agregar o arreglar, podés abrir un _pull request_ o 
 
 # Hardware
 
-## CPU
+- Modelo: eBOX-2300SX
+- CPU: MSTI PSX, que es equivalente a una Vortex86SX
+- 128MB DDR2 RAM
+- Salida VGA
+- Puerto Ethernet 10/100 con auto MDI (no hace falta usar cable cruzado para conectar dos entre sí)
+- 3 puertos USB
+- Conector CompactFlash
+- Se alimenta con 5V, consume menos de 1A, y es fanless
 
-- [Specs oficiales de la CPU](https://www.dmp.com.tw/tech/vortex86sx/)
+![Image](https://m.media-amazon.com/images/I/41fR1BKOhvL._AC_UF894,1000_QL80_.jpg)
+![Versión con GPIO y puertos serie](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/EBOX_PC_2300_SX_internal.jpg/562px-EBOX_PC_2300_SX_internal.jpg)
+
 ![Block diagram](https://www.dmp.com.tw/tech/vortex86sx/img/Vortex86SX_block_diagram.gif)
+
+## CPU
+- Modelo: MSTI PSX 366MHz o a 300 MHz (depende de la placa)
+- Es equivalente a una 486SX
+- No tiene FPU, instrucciones de Pentium, ni extensiones tipo MMX
+- El modelo de 300 se puede llegar a overclockear cambiandoo unas resistencias
+
+- [Specs oficiales del SoC](https://www.dmp.com.tw/tech/vortex86sx/)
 
 ## Memorias CF
 - [Memorias CF a buen precio](https://articulo.mercadolibre.com.ar/MLA-873109407-apacer-memoria-compact-flesh-cf5-32-gb-_JM?quantity=1)
