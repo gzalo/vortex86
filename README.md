@@ -18,6 +18,11 @@ Si tenés alguna data para agregar o arreglar, podés abrir un _pull request_ o 
 - Se alimenta con 5V, consume menos de 1A, y es fanless
 - [Esquemático similar](https://www.vortex86.com/downloadsStart?serial=VSX-EVB-SCH)
 
+- No hay puerto paralelo. Algunos modelos tienen GPIOS expuestos
+- Tiene un IDE que se puede usar para otro disco rígido externo como los de notebook
+- Hay soporte para poner un mini pci pero faltaría conseguir el conector
+- El SoC no tiene la salida para audio digital
+
 ![Image](https://m.media-amazon.com/images/I/41fR1BKOhvL.jpg)
 [![Versión con GPIO y puertos serie](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/EBOX_PC_2300_SX_internal.jpg/562px-EBOX_PC_2300_SX_internal.jpg)](https://commons.wikimedia.org/wiki/File:EBOX_PC_2300_SX_internal.jpg)
 
