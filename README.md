@@ -41,6 +41,10 @@ Si tenés alguna data para agregar o arreglar, podés abrir un _pull request_ o 
 
 ## Problemas encontrados
 
+Cosas que no funcionan:
+- Demos que no andan: todas las que usen FPU: [tube](https://www.pouet.net/prod.php?which=3397), [puls](https://www.pouet.net/prod.php?which=53816), [sekman](https://www.pouet.net/prod.php?which=54490)
+- Demos que sí andan: [corroder](https://www.pouet.net/prod.php?which=94159), [difuze (luego se rompe el MSDOS)](https://www.pouet.net/prod.php?which=55777), [memories excepto algunas partes](https://www.pouet.net/prod.php?which=85227), [immediate railways (**muy** lento)](https://www.pouet.net/prod.php?which=66380), [pixel town](https://www.pouet.net/prod.php?which=32212)
+
 ## Modificaciones
 
 - [Pines del cable de alimentación](https://www.youtube.com/watch?v=gUz2xTNYLwo&t=72s)
