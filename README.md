@@ -67,6 +67,7 @@ Cosas que no funcionan:
 - [Gopherus, cliente de gopher para DOS](https://sourceforge.net/projects/gopherus/)
 - [Juegos viejos de DOS](https://archive.org/details/DOSGamesCollection2015)
 - [Discos de instalación de DOS](https://winworldpc.com/product/ms-dos/622)
+- [Compartir archivos por red, una especie de mount NFS](https://etherdfs.sourceforge.net/)
 
 ## Windows 3.1x y anteriores
 - 
@@ -86,3 +87,6 @@ Cosas que no funcionan:
 - OS/2: Crashea antes de terminar de bootear
 - Memtest: corre bien hasta la versión 4.1
 - [Referencia de desarrollo de software para Vortex](http://www.dmp.com.tw/tech/DMP_Vortex86_Series_Software_Programming_Reference_091216.pdf)
+
+# Agradecimientos
+- El Fede, Mar Fer, Ale Perez, y todo el resto de gente del grupo de Telegram!
